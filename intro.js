@@ -10,6 +10,6 @@ console.log('hy ')
 console.log(__dirname)
 setInterval(() =>{
     
-        console.log("hello ${}")
+        console.log(`hello ${amount }`)
     }
 ,1000)
